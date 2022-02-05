@@ -20,3 +20,17 @@ Project available at [Netlify](https://omnifood-neringa.netlify.app/).
 ##### Coding challenges at Udemy and Edabit
 
 ##### Team management experience at Convera
+
+## Education
+
+##### Udemy:Online Courses
+
+- _Build Responsive Real-World Websites with HTML and CSS_ by Jonas Schmedtmann
+- _The Complete JavaScript Course 2022: From Zero to Expert!_ by Jonas Schmedtmann
+
+##### Women go Tech Mentorship program
+
+##### Vilnius University 2010-2018
+
+- Master's degree, Finance
+- Bachelor's degree, International Business
