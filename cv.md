@@ -39,3 +39,5 @@ Project available at [Netlify](https://omnifood-neringa.netlify.app/).
 
 - HTML, CSS, JavaScript, Git basics
 - Responsive design fundamentals
+- Problem solving skills
+- Good English skills acquired by leading multinational teams for more than 5 years
