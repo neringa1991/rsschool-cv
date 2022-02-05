@@ -34,3 +34,8 @@ Project available at [Netlify](https://omnifood-neringa.netlify.app/).
 
 - Master's degree, Finance
 - Bachelor's degree, International Business
+
+## Skills
+
+- HTML, CSS, JavaScript, Git basics
+- Responsive design fundamentals
